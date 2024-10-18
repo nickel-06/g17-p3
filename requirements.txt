@@ -1,1 +1,11 @@
 nbiatoolkit
+pydicom
+nibabel
+numpy
+pandas == 1.5.3
+pycox
+torch
+torchtuples
+openpyxl
+monai[all]
+torchvision

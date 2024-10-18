@@ -1,8 +1,8 @@
 # Makefile for setting up the environment, installing dependencies, and running the Python download script
 
 
-VENV_DIR = g17p3
-DOWNLOAD_SCRIPT = Dataset/download_data.py
+VENV_DIR = g15p3
+DOWNLOAD_SCRIPT = Dataset/custom_dataset.py
 REQUIREMENTS = requirements.txt
 
 
